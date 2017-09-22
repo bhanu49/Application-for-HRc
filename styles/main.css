@@ -1,0 +1,44 @@
+body {
+	margin:0 ;
+}
+
+header {
+	background: #808080;
+	color:white;
+	padding: 64px 0 0 15px;
+}
+header h1{
+margin: 37px;
+font-family:Georgia;
+color: #8FBC8F;
+margin-right: 100px;
+}
+#title{
+	text-align: end;
+	font-size: 53%;
+}
+img {
+	float: left ;
+	border: 1px #8FBC8F;
+}
+nav ul{
+
+	margin: 0; 	
+	padding: 0 0 0 15px;
+	display: inline;
+}
+
+nav ul li {
+	background: white;
+	color: white;
+	display: inline-block;
+	list-style-type:inline;
+	padding: 5px 20px;
+	font-family: Gadget;
+}
+nav ul li a:link {
+	/*color:#2F4F4F;text-decoration: none;*/
+	color:green; background-color:transparent; text-decoration:none}
+nav ul li a:visited{color:blue; background-color:transparent; text-decoration:none}
+nav ul li a:hover{color:red; background-color:transparent; text-decoration:underline}
+nav ul li a:active{color:yellow; background-color:transparent; text-decoration:underline}

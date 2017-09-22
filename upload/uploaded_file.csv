@@ -1,0 +1,39 @@
+PAM
+InjuryLevel     n
+        <chr> <int>
+Minor   181
+Severe   230
+None   114
+Moderate    21
+Fatal    28
+Unknown   105
+
+kmean#
+
+ InjuryLevel     n
+        <chr> <int>
+
+1    Moderate     1
+2        None     2
+3      Severe    77
+4     Unknown     5
+
+
+1       Fatal    11
+2       Minor   179
+3    Moderate     5
+
+
+Severe   153
+
+Unknown   100
+
+1       Fatal     2
+2        None     106
+
+
+
+1       Fatal    15
+2       Minor     2
+3    Moderate    15
+4        None     6

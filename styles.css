@@ -1,0 +1,10 @@
+.ifflogo {
+	float:left;
+}
+.jumbotron a:link {
+	/*color:#2F4F4F;text-decoration: none;*/
+	color:blue;  text-decoration:none;}
+ a:visited{color : #6495ED:; background-color:transparent; text-decoration:none}
+  a:hover{color:green; background-color:transparent; text-decoration:underline}
+ a:active{color:black; background-color:transparent; text-decoration:underline}
+

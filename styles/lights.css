@@ -1,0 +1,36 @@
+      
+body {
+  font-family: sans-serif;
+}
+
+#scale{
+    float: left;
+    position: relative;
+    left: 50%;
+}
+.bulb1 ,.bulb2,.bulb3 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: #9DB68C;
+  float: left;
+  margin: 25px auto;
+  transition: background 500ms;
+  position: relative;
+    left: -50%;
+
+}
+.bulb1{
+    
+    margin: 10px;
+    
+}
+.bulb2{
+    
+    margin: 10px;
+}
+.bulb3{
+    
+    margin: 10px;
+}
+

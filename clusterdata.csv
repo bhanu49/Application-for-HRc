@@ -1,0 +1,59 @@
+bodypart,Injury,InjuryLevel,Unit,Quantity,wert
+"Hals (Vorne/Kehlkopf)",Subluxation,Moderate,g,Beschleunigung,17.8
+"Hals (Vorne/Kehlkopf)",Fraktur,Severe,g,Beschleunigung,17.8
+"Hals (Vorne/Kehlkopf)",Fraktur,Severe,g,Beschleunigung,17.8
+"Hals (Vorne/Kehlkopf)",Subluxation,Moderate,g,Beschleunigung,19.9
+"Hals (Vorne/Kehlkopf)",Fraktur,Severe,g,Beschleunigung,19.9
+"Hals (Vorne/Kehlkopf)",Fraktur,Severe,g,Beschleunigung,19.9
+"Hals (Vorne/Kehlkopf)",Subluxation,Moderate,g,Beschleunigung,14.5
+"Hals (Vorne/Kehlkopf)",Fraktur,Severe,g,Beschleunigung,14.5
+"Hals (Vorne/Kehlkopf)",Fraktur,Severe,g,Beschleunigung,14.5
+Schädel/Stirn,Verletzung,Moderate,m/s²,Beschleunigung,593.51
+Schädel/Stirn,Verletzung,Moderate,m/s²,Beschleunigung,1654.95
+Schädel/Stirn,Verletzung,Moderate,g,Beschleunigung,81
+"Hals (Seiten/Nacken)",Verletzung,Moderate,g,Beschleunigung,86
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,32
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,25
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,21
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,23
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,54.7
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,4.1
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,29.2
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,1
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,35
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,1.7
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,43.6
+Schädel/Stirn,Verletzung,Moderate,g,Beschleunigung,60.5
+Schädel/Stirn,Verletzung,Moderate,g,Beschleunigung,168.7
+Rücken/Schultern,"keine Verletzung",None,g,Beschleunigung,32
+Rücken/Schultern,"keine Verletzung",None,g,Beschleunigung,17
+Rücken/Schultern,Fraktur,Severe,g,Beschleunigung,59
+Rücken/Schultern,Fraktur,Severe,g,Beschleunigung,29
+Rücken/Schultern,"keine Verletzung",None,g,Beschleunigung,29
+Rücken/Schultern,"keine Verletzung",None,g,Beschleunigung,13
+Schädel/Stirn,Fraktur,Severe,g,Beschleunigung,100
+Schädel/Stirn,Fraktur,Severe,g,Beschleunigung,125
+Becken,"keine Verletzung",None,g,Beschleunigung,13
+Becken,"keine Verletzung",None,g,Beschleunigung,19
+Becken,"keine Verletzung",None,g,Beschleunigung,63
+Becken,"keine Verletzung",None,g,Beschleunigung,126
+Becken,"keine Verletzung",None,g,Beschleunigung,43
+Becken,"keine Verletzung",None,g,Beschleunigung,70
+Becken,Verletzung,Moderate,g,Beschleunigung,12
+Becken,Verletzung,Moderate,g,Beschleunigung,19
+Becken,Verletzung,Moderate,g,Beschleunigung,52
+Becken,Verletzung,Moderate,g,Beschleunigung,176
+Becken,Verletzung,Moderate,g,Beschleunigung,24
+Becken,Verletzung,Moderate,g,Beschleunigung,91
+Becken,Verletzung,Moderate,g,Beschleunigung,14
+Becken,Verletzung,Moderate,g,Beschleunigung,23
+Becken,Verletzung,Moderate,g,Beschleunigung,86
+Becken,Verletzung,Moderate,g,Beschleunigung,202
+Becken,Verletzung,Moderate,g,Beschleunigung,66
+Becken,Verletzung,Moderate,g,Beschleunigung,142
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,784.8
+Brust,"keine Verletzung",None,g,Beschleunigung,588.6
+"Kein Einzelbereich angegeben","keine Angabe",Unknown,g,Beschleunigung,3
+"Kein Einzelbereich angegeben","keine Angabe",Unknown,g,Beschleunigung,-1.7
+"Kein Einzelbereich angegeben","keine Angabe",Unknown,g,Beschleunigung,6
+Schädel/Stirn,"keine Verletzung",None,g,Beschleunigung,50
